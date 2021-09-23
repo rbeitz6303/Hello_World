@@ -6,7 +6,10 @@ GetHub Asignment
 
 -------
 ## Description
-This is my gethub acoount for class 
+This is my gethub acoount for class
+
+My name is Ryan Beitz I am a senior at Iowa studying business analytics.  I currently have a job for after graduation working as a Superintendent on a construction site also known as a Field Engineer.
+
 
 ---------
 # **How to Run Program**
@@ -18,6 +21,7 @@ This is my gethub acoount for class
 --------
 ### *Files Used*
 These were the files uesed 
+
 --------
 ### Additional Documentation.
 - Additional item 
@@ -31,4 +35,3 @@ These were the files uesed
 ***This is the Versioning***
 
 ----------
-My name is Ryan Beitz I am a senior at Iowa studying business analytics.  I currently have a job for after graduation working as a Superintendent on a construction site also known as a Field Engineer.
