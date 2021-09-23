@@ -1,32 +1,32 @@
-#H1 Hello_World
+# Hello_World
 practice repository 
 
-#**Project Title**
+# **Project Title**
 GetHub Asignment 
 
 -------
-##Description
+## Description
 This is my gethub acoount for class 
 
 ---------
-#**How to Run Program**
+# **How to Run Program**
 
 1. First Item 
 2. Second Item 
 3. Third Item 
 
 --------
-###*Files Used*
+### *Files Used*
 These were the files uesed 
-
-###Additional Documentation.
+--------
+### Additional Documentation.
 - Additional item 
 - Additional item 2 
 - Additional item 3 
 
 ---------
 
-###Versioning
+### Versioning
 
 ***This is the Versioning***
 
